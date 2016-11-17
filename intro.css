@@ -6,3 +6,8 @@ ul {
   text-decoration: none;
   border: 1em #CCC solid;
 }
+
+img {
+  height: 50px;
+  width: 100%; 
+}
