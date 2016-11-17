@@ -24,3 +24,8 @@ img {
 h1, h2, h3 {
   text-decoration: strikethrough;
 }
+
+.title {
+  padding: 1em;
+  margin: 1em;
+}
